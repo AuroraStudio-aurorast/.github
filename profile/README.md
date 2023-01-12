@@ -1,10 +1,8 @@
 ## 📖Introduction
 
-AuroraStudio, founded by @Redmountain2018 on December 20, 2019, is a software development team from China that aims to provide free software for better use.
+AuroraStudio, founded by @Redmountain2018 on December 20, 2019, is a software development team from China that aims to provide software for better use.
 
 We specialize in writing native programs and providing web services.
-
------
 
 ## ℹ️Info
 
