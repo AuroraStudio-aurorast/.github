@@ -2,7 +2,7 @@
 
 AuroraStudio, founded by @Redmountain2018 on December 20, 2019, is a small software development team from China that aims to provide software for better use.
 
-We are a non-profit team, but if you want, you can buy us a coffee.
+We are a non-profit team, but if you want, you can buy us a cup of coffee.
 
 ## ✨Software
 
