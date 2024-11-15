@@ -16,6 +16,10 @@ We made software for  ![Windows](https://img.shields.io/badge/Windows-placeholde
 
 - FoundryOymyakon ❄️ (still in development)
 
+## 🖥️ Hardware
+
+- Arrebol SBC 🤗 (nearly done)
+
 ## ❤️Info
 
 We are not good at English, so please understand the language communication problems caused, if you can use Chinese to communicate with us, it will be great~
